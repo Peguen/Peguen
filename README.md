@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Peguen
 - 👀 I’m interested in C++ and game development.
-- 🌱 I’m currently learning SFML to create my own tiny engine.
+- 🌱 I’m currently learning SFML to create my own tiny game.
 - 💞️ I’m looking to collaborate on nothing specifig at the moment.
 - 📫 How to reach me - just here.
 
